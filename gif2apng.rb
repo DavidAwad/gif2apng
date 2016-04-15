@@ -1,6 +1,6 @@
 class Gif2apng < Formula
-  desc ""
-  homepage "http://github.com/davidawad/homebrew-gif2apng"
+  desc "library to convert gif files to apng"
+  homepage "https://sourceforge.net/projects/apng2gif/"
   url "https://github.com/davidawad/homebrew-gif2apng/archive/1.0.0.tar.gz"
   version "1.0.0"
   sha256 "12fb705e32e0cc8d6415be9fc8355be8d2b0fe5286d40094d4da37ce0652e1de"
