@@ -7,6 +7,8 @@ class Gif2apng < Formula
 
   def install
       puts "thanks for installing! gif2apng usage is straightforward."
+      chmod u+x gif2apng
+      # sudo mv gif2apng /usr/local/bin
   end
 
 end
